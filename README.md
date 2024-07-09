@@ -20,7 +20,7 @@ Design: [Lempute](https://imgur.com/Wt1PZsa)
 
 -   Github pages
 -   icons (Google)
--   style.CSS
+-   style.css
 -   **NO** responsive design
 
 ## 🧰 Getting Started
