@@ -12,7 +12,7 @@
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://darkera007.github.io/lempute_51/
+Site published at: https://deangelo777.github.io/lempute_51/
 
 Design: [Lempute](https://imgur.com/Wt1PZsa)
 
